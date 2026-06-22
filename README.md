@@ -1,5 +1,5 @@
 # Mental Health Narrator
-> Explaining AI mental health risk predictions in plain English using local LLMs.
+Explaining AI mental health risk predictions in plain English using local LLMs.
 
 Python
 HuggingFace
@@ -65,7 +65,7 @@ The model correctly identifies distress signals in high-confidence cases but mis
 - Model trained on general emotion data, not clinical text
 
 ## Run in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+
 
 1. Open the notebook link above
 2. Runtime → Change runtime type → T4 GPU
