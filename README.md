@@ -1,10 +1,10 @@
 # Mental Health Narrator
 > Explaining AI mental health risk predictions in plain English using local LLMs.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-![SHAP](https://img.shields.io/badge/XAI-SHAP-green)
-![Gradio](https://img.shields.io/badge/UI-Gradio-orange)
+![Python]
+![HuggingFace]
+![SHAP]
+![Gradio]
 
 ## Problem
 Mental health classifiers are black boxes — they predict risk but 
